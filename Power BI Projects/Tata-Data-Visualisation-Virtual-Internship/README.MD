@@ -5,3 +5,5 @@ CERTIFICATE: https://forage-uploads-prod.s3.amazonaws.com/completion-certificate
 
 # Tata-Data-Visualisation-Virtual-Internship
 
+
+![image](https://user-images.githubusercontent.com/97459174/235720953-b9e57b93-f12c-49be-8909-5757c5246d0b.png)
